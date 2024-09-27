@@ -7,16 +7,21 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Emiko Kawamoto (she/her). I like JRPGs, specifically earthbound inspired ones. I also like rhythm games, but I only really play the ones with the vocaloids (Hatsune Miku, Kagamine Rin & Len, etc.) like Project Diva and Colorful Stage. I'm taking this mainly because it's apart of my major, but also because I am interested in coding games! While I have no prior experience with engines like Unity or Unreal, I have made small projects in RPG Maker MV. In high school, I learned python and basic programming skills. In the future, I hope to make mainly story driven RPGs with turn based battles. 
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+One big thing I am hoping to get out of this class is how to use Unity. It's a very useful tool for game design, as it can help make any type of game. I also hope to get some experience with programming games, especially since my only experience is with RPG Maker, which doesn't involve much coding and only using commands. 
+
 4. What, if anything, are you nervous about for this class?
+I'm a little nervous about writing the devlogs, as I am not very good at remembering what I did and am not very descriptive. 
 
 ## Prior Experience
 
@@ -25,10 +30,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+Python
 
 2. Game development (any engine)
+RPG Maker MV
 
 3. Unity
+0
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +48,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+N/A
 
 2. Scope management
+N/A
 
 3. Iteration
+N/A
 
 4. Object-Oriented programming
+N/A
 
 5. Model-View-Controller architecture
+N/A
 
 ## Complete!
 
